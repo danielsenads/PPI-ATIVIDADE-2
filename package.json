@@ -1,0 +1,26 @@
+{
+  "name": "ppi-atividade-2",
+  "version": "1.0.0",
+  "description": "Backend da aplicação de cadastro de cliente",
+  "main": "index.js.",
+   "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielsenads/PPI-ATIVIDADE-2.gi.git"
+  },
+  "keywords": [
+    "API",
+    "Backend",
+    "MVC",
+    "REST"
+  ],
+  "author": "Daniel Sena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielsenads/PPI-ATIVIDADE-2.gi/issues"
+  },
+  "homepage": "https://github.com/danielsenads/PPI-ATIVIDADE-2.gi#readme"
+}
