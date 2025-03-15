@@ -1,7 +1,7 @@
 import { Router } from "express";
-import ClienteCtrl from "../Controllers/ClienteCtrl.js"; // Verifique o caminho correto
+import ClienteCtrl from "../Controller/clienteCtrl.js";
 
-const rotaCliente = Router(); // Mini aplicação HTTP
+const rotaCliente = Router(); //mini aplicação http
 const cliCtrl = new ClienteCtrl();
 
 rotaCliente.get("/", cliCtrl.consultar);

@@ -1,5 +1,5 @@
 import express from "express";
-import rotaCliente from './Routes/rotaCliente.js';
+import rotaCliente from "./Routes/rotaCliente.js";
 const host = '0.0.0.0'; //qq interface do host
 const porta = 4000;
 
