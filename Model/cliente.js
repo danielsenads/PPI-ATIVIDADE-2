@@ -1,8 +1,6 @@
 //Programação orientada a objeto
-import ClienteDB from './clienteDB.js';
+import ClienteDB from "../DataBase/clienteDB.js";
 export default class Cliente {
-   
-
 
     //atributos de um cliente
     //Definição de atributos privados e seus respectivos métodos de acesso públicos
